@@ -2,7 +2,7 @@
 
 Collaborative work from [Marc M.](https://github.com/mmwieauchimmer) and [Karsten Y.](https://github.com/Karsten-Yan)
 
-Business Presentation in [Kickstater.pdf](https://github.com/Karsten-Yan/data_science_project_2/blob/master/Kickstarter.pdf)
+Business Presentation in [Kickstater.pdf](https://github.com/Karsten-Yan/data_science_project_2/blob/master/Kickstarter.pdf).
 
 Raw Data is found in the [Data Folder](https://github.com/Karsten-Yan/data_science_project_2/tree/master/data).
 
