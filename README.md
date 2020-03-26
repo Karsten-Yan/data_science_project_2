@@ -1,6 +1,6 @@
 # Kickstarter Success or Fail Prediction
 
-Collaborative work from [Marc M.](https://github.com/mmwieauchimmer) and [Karsten Y.](https://github.com/Karsten-Yan).
+Collaborative work from [Marc M.](https://github.com/mmwieauchimmer) and [Karsten Y.](https://github.com/Karsten-Yan)
 
 Raw Data is found in the [Data Folder](https://github.com/Karsten-Yan/data_science_project_2/tree/master/data).
 
